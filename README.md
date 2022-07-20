@@ -9,7 +9,9 @@
 
 A text editor that runs in the browser. It is a single-page application that meets the PWA criteria.
 
-Heroku Link: https://hw19-pwa-text-editor.herokuapp.com/
+Deployed Heroku Link: https://hw19-pwa-text-editor.herokuapp.com/
+
+Repository Link: https://github.com/aalink/PWA-text-editor
 
 ![VS Code Screen Shot](/client/src/images/jate-just-another-text-editor.png)
 
